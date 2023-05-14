@@ -11,6 +11,7 @@ env:
   AZURE_LOCATION: '"Central US"'
   ###############################################
   ### Replace <username> with GitHub username ###
+  ### Replace nisargam with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: nisargam-ttt-app
 
